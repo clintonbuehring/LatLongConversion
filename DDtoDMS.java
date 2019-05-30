@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/* A simple program to convert users Decimal Degrees for Latitude & Longitude cordinates
+ *  into Degrees Minutes Seconds (DMS).
+*/
+
 public class DDtoDMS {
 	
 	public static void errorMsg(int a, int b, String c){
